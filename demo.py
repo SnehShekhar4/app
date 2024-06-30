@@ -1,1 +1,1 @@
-print("Main app")
+print("Main App")
