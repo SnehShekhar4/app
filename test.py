@@ -7,4 +7,4 @@ print("By dev 1")
 print("Feature3")
 
 print ("BRUUJJ")
-print("Let us raise conflict")
+print("Let us conflict ")
